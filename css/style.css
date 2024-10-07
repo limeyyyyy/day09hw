@@ -109,3 +109,13 @@ ul.nav a:hover {
     grid-column: 3;
     grid-row: 3 / span 3;
 }
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: blue;
+    color: aqua;
+    text-align: center;
+  }
